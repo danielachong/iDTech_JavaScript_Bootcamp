@@ -1,1 +1,2 @@
 # Working with Basic Data Types Activity
+In this activity I had to create 4 string variable, 3 integer variable, 1 array variable and 1 boolean variable. Then I had to use the values assigned to each of the variable to create a story. 
