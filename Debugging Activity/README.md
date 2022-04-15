@@ -1,1 +1,2 @@
 # Debugging Activity
+In this activities I had to debug 3 different codes. In the first one I had to change an infinite loop for it to only run a certain amount of time. In the second one I had solve an error with 5 student ID's. And in the third one I had to make sure it returned the correct amount of cash.
