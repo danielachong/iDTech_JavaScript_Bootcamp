@@ -1,1 +1,2 @@
 # Project Pt 1 - PacMan Activity
+In this activity I had to code the pacman for it to move back and forth across screen. I used four images to change the way the pacman looked each time it moved especially when it went the other direction. 
